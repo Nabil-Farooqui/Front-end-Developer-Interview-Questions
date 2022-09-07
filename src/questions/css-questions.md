@@ -40,3 +40,5 @@ permalink: /questions/css-questions/index.html
 * Can you give an example of a pseudo class? Can you provide an example use case for a pseudo class? 
 * What is the difference between a block level element and an inline element. Can you provide examples of each type of element?
 * What is the difference between CSS Grid and Flexbox? When would you use one over the other?
+* Which String object functions return the capitalized string while respecting the current locale?
+* Suggest some ways on how to fix the browser-specific styling issue?
